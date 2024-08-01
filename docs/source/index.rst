@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+VyOS, documentación y apuntes
+=============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+La idea de esta pagina es compartir con ustedes documentación y apuntes que voy haciendo durante el estudio de este gran sistema operativo de red.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Martin Pedros
 
 .. note::
 
-   This project is under active development.
+   Este proyecto se está desarrollando.
 
 Contents
 --------
