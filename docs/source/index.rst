@@ -14,4 +14,4 @@ Contents
 
 .. toctree::
 
-   pagina
+   paginas
