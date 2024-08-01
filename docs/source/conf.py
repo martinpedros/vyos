@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'VyOS, documentación y apuntes'
 copyright = '2024, Martin Pedros'
-author = 'Graziella'
+author = 'Martin Pedros'
 
 release = '0.1'
 version = '0.1.0'
