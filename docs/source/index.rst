@@ -8,7 +8,7 @@ La idea de esta pagina es compartir con ustedes documentación y apuntes que voy
 
    Este proyecto se está desarrollando.
 
-Contents
+Contenido
 --------
 
 .. toctree::
